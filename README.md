@@ -11,6 +11,8 @@ The page will suffer different changes thru the time, so be sure to read allways
 When you submit a form, our team is going to work hard to have all your links up and running AFAP... soon we will use automations and more
 but for now... we are going to do it to the traditional whay!
 
+YOU KNOW?: We have an Record and Production Label... Visit the Label WEBSITE here!: <a href="https://artistlkrecords.github.io/">Click Here!</a>
+
 <!-- Logo -->
 <!-- <img src="" width="" height="" /> -->
 
